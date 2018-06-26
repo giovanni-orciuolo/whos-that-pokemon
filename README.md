@@ -8,6 +8,7 @@ To answer an active quiz:
 - !wtp-its <poke-name> -> Gives an answer to an active quiz, if any
 
 FOR USERS:
+
 To add this bot to your Discord server, simply follow this link:
 https://discordapp.com/oauth2/authorize?client_id=460889369855655956&scope=bot
 
@@ -22,5 +23,6 @@ To install:
 - Clone this repository
 - npm install discord.js
 - npm install pokedex-promise-v2
+- cd src && node app.js (this is to start the bot)
 
 This will let you install all the libraries you need to launch the bot on your own.
