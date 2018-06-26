@@ -21,6 +21,7 @@ FOR DEVS:
 This project is so little that I didn't include any fancy package manager to manage libraries.
 To install:
 - Clone this repository
+- Modify inside config.json the token value to be your app's token
 - npm install discord.js
 - npm install pokedex-promise-v2
 - cd src && node app.js (this is to start the bot)
