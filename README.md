@@ -16,9 +16,11 @@ WILL BE ADDED:
 - Possibility to generate a quiz given a determined Pokémon
 
 FOR DEVS:
+
 This project is so little that I didn't include any fancy package manager to manage libraries.
 To install:
 - Clone this repository
 - npm install discord.js
 - npm install pokedex-promise-v2
+
 This will let you install all the libraries you need to launch the bot on your own.
